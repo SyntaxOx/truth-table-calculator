@@ -6,7 +6,7 @@ export default function App() {
 
   return (
     <div id="container">
-      <h1 id="title">Logic Truth Table Generator</h1>
+      <h1 id="title">Logic Truth Table Calculator</h1>
       <input
         id="inputExpression"
         placeholder="Enter Logical Expression"
